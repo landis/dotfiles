@@ -8,11 +8,11 @@ alias -- -="cd -"
 
 # Shortcuts
 alias d="cd ~/Documents/Dropbox"
-alias p="cd ~/Projects"
+alias p="cd ~/projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
-alias v="vim"
+#alias v="vim"
 alias m="mate ."
 alias s="subl ."
 alias o="open"
